@@ -11,6 +11,7 @@
 
 ## 📂 Структура проекту
 
+```
 my-react-app/
 ├── src/
 │ ├── components/
@@ -22,7 +23,8 @@ my-react-app/
 │ └── index.css
 ├── package.json
 └── README.md
-
+```
 
 🌐 Демо проекту
 
+https://hw-48-pink.vercel.app/
