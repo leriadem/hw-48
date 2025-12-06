@@ -1,0 +1,15 @@
+:root {
+  --app-bg: #f5f7fb;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--app-bg);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
